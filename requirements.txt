@@ -1,5 +1,2 @@
 # requirement.txt
 snowflake-connector-python
-streamlit==1.9.0
-pandas~=1.4.2
-requests~=2.27.1
