@@ -1,7 +1,7 @@
 import pandas
 import requests
 import streamlit
-import snowflake.connector
+
 
 
 streamlit.header('Breakfast Favorites')
