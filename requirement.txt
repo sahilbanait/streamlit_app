@@ -1,2 +1,2 @@
 # requirement.txt
-snowflake-connector-python==2.7.6
+pip install snowflake-connector-python==2.7.6
